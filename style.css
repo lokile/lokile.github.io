@@ -77,7 +77,6 @@ span.wave {
     right:0;
 }
 .boyimage{
-  height: 400px;
 }
 
 @media only screen and (max-width : 1183px){
@@ -113,9 +112,6 @@ span.wave {
     display:none;
   }
 }
-  .Hello{
-      margin-bottom: 20px;
-  }
   p{
       line-height: 2;
       color: #868e96;
@@ -134,6 +130,9 @@ span.wave {
     color: #3498db;
     overflow: hidden;
     position: relative;
+  }
+  .social_media_icon{
+    margin-top:10px;
   }
 
   .btn i {
@@ -181,7 +180,7 @@ span.wave {
 
  #Whatido{
      text-align: center;
-     padding-top: 7%;
+     margin-top:10%;
  }
 
   /* Section 2 */
