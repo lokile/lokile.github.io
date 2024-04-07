@@ -23,8 +23,6 @@ p{
   }
 
 .brand-name ,.navbar-light .navbar-brand{
-      /* font-family: "Brush Script MT"; */
-      /* margin-bottom: 3px; */
       font-family: "Lovely Home";
       font-size: 50px;
       font-weight: bold;
@@ -76,10 +74,8 @@ span.wave {
     position: absolute;
     right:0;
 }
-.boyimage{
-}
 
-@media only screen and (max-width : 1183px){
+@media only screen and (max-width : 1100px){
   .first-image{
     right:160px;
   }
@@ -107,7 +103,7 @@ span.wave {
   align-items: center;
 }
 
-@media only screen and (min-width:951px){
+@media only screen and (min-width:1100px){
   .Image-boy{
     display:none;
   }
@@ -281,13 +277,12 @@ span.wave {
       color: #351458;
   }
   }
-  @media only screen and (max-width : 991px) and (min-width: 951px){
+  @media only screen and (max-width : 1050px) and (min-width: 1100px){
     .section-1{
       margin-top: auto;
-      padding-right: 400px;
     }
   }
-  @media only screen and (max-width : 950px){
+  @media only screen and (max-width : 1100px){
 
     body,html{
       text-align: center;
