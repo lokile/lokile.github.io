@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cd742c5-c4bc-41e9-ba1c-80f9d181c342" name="Changes" comment="update pages" />
+    <list default="true" id="4cd742c5-c4bc-41e9-ba1c-80f9d181c342" name="Changes" comment="Add policy">
+      <change beforePath="$PROJECT_DIR$/app-policies/compass/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app-policies/compass/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2bGyOXP6kmk3ub5ZPu3ZTwJ13pY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -44,7 +47,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/loki/SourceCode/lokile.github.io",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,7 +104,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705944178247</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Remove old project">
+      <option name="closed" value="true" />
+      <created>1774713275235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774713275235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add policy">
+      <option name="closed" value="true" />
+      <created>1774714121249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774714121249</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add policy">
+      <option name="closed" value="true" />
+      <created>1774714646096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774714646096</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +156,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pages" />
+    <MESSAGE value="Remove old project" />
+    <MESSAGE value="Add policy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add policy" />
   </component>
 </project>
